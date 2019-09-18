@@ -1,0 +1,60 @@
+<h2>List of Inventories</h2>
+<div>
+  <mat-form-field >
+    <input class="filter" matInput (keyup)="applyFilter($event.target.value)"  placeholder="filter">
+  </mat-form-field>
+</div>
+
+<mat-table matSort [dataSource]="dataSource" mat-sort class="mat-elevation-z6">
+
+   
+    <ng-container matColumnDef="productname">
+      <mat-header-cell mat-sort-header *matHeaderCellDef> product name</mat-header-cell>
+      <mat-cell *matCellDef="let element" (click)="editinv(element)"> {{element.productname}} </mat-cell>
+    </ng-container>
+  
+   
+    <ng-container matColumnDef="category">
+      <mat-header-cell *matHeaderCellDef> Category</mat-header-cell>
+      <mat-cell *matCellDef="let element"> {{element.category}} </mat-cell>
+    </ng-container>
+  
+    
+    <ng-container matColumnDef="availableunits">
+      <mat-header-cell *matHeaderCellDef> Units Available </mat-header-cell>
+      <mat-cell *matCellDef="let element"> {{element.availableunits}} </mat-cell>
+    </ng-container>
+  
+    <ng-container matColumnDef="unitprice">
+      <mat-header-cell *matHeaderCellDef> Unit Price</mat-header-cell>
+      <mat-cell *matCellDef="let element"> {{element.unitprice}} </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="tags">
+        <mat-header-cell *matHeaderCellDef> tags</mat-header-cell>
+        <mat-cell *matCellDef="let element"> {{element.tags}} </mat-cell>
+      </ng-container>
+
+      <ng-container matColumnDef="lastupated">
+        <mat-header-cell *matHeaderCellDef> Last Updated</mat-header-cell>
+        <mat-cell *matCellDef="let element"> {{element.lastupated}} </mat-cell>
+      </ng-container>
+
+      <ng-container matColumnDef="location">
+        <mat-header-cell *matHeaderCellDef> Location</mat-header-cell>
+        <mat-cell *matCellDef="let element"> {{element.location.area}} </mat-cell>
+      </ng-container>
+
+      <ng-container matColumnDef="description">
+        <mat-header-cell *matHeaderCellDef> Description</mat-header-cell>
+        <mat-cell *matCellDef="let element"> {{element.description}} </mat-cell>
+      </ng-container>
+  
+    <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+    <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+</mat-table>
+
+<button mat-raised-button (click)="onClick()">Add Inventory </button>
+<mat-paginator [pageSizeOptions]="[5,10,20]" showFirstLastButtons></mat-paginator>
+<router-outlet> </router-outlet>
+  

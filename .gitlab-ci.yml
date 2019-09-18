@@ -1,0 +1,18 @@
+image: circleci/node:11-browsers
+stages:
+  - stage::build
+  - lint
+build_app:
+  stage: stage::build
+  tags:
+    - immersive
+  script:
+    - npm install
+tslint_app:
+  stage: lint
+  when: always
+  tags:
+    - immersive
+  script:
+    - npm install
+    - npm run lint -- --format json

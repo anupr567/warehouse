@@ -1,0 +1,76 @@
+<h2>Inventory Addition Form</h2>
+<form [formGroup]="invForm">
+<div>
+   <div><label>Product Name</label>
+    <input type="text" [class.is-invalid]="invForm.get('productname').invalid && 
+                                                                invForm.get('productname').touched" 
+                                                                formControlName="productname">
+   <div *ngIf=" invForm.get('productname').invalid && invForm.get('productname').touched">
+       <small class="err"> Name is required </small>
+   </div>  
+   </div>                                                       
+                                                          
+   <div> <label>Category</label>
+    <input [class.is-invalid]="invForm.get('category').invalid && invForm.get('category').touched" formControlName="category" type="text" class="form-control" placeholder="Category">
+    <div *ngIf="invForm.get('category').errors && (invForm.get('category').dirty || invForm.get('category').touched)">
+        <small class="err"> Category is required </small>
+        <small *ngIf="invForm.get('category').errors?.minlength" 
+        class="err">Category must be at least 3 characters</small>
+    </div> 
+</div>
+
+    <div> <label>Units</label>
+        <input [class.is-invalid]="invForm.get('availableunits').invalid && invForm.get('availableunits').touched" formControlName="availableunits" type="text" class="form-control" placeholder="Available Units">
+        <div *ngIf="invForm.get('availableunits').errors && (invForm.get('availableunits').dirty || invForm.get('availableunits').touched)">
+            <small class="err"> Units is required </small>    
+            <small *ngIf="invForm.get('availableunits').errors.pattern" 
+                class="err">Number Only<br></small>
+                <small *ngIf="invForm.get('availableunits').errors?.min" 
+                class="err">Available Units must be greater than 0</small>
+   
+        </div> 
+    </div>
+
+    <div> <label>Price</label>
+        <input [class.is-invalid]="invForm.get('unitprice').invalid && invForm.get('unitprice').touched" formControlName="unitprice" type="text" class="form-control" placeholder="Unit Price">
+        <div *ngIf="invForm.get('unitprice').errors && (invForm.get('unitprice').dirty || invForm.get('unitprice').touched)">
+                <small class="err"> Price is required </small>
+                                       <small *ngIf="invForm.get('unitprice').errors?.required" class="err">Unitprice is required</small>
+                        <small *ngIf="invForm.get('unitprice').errors.pattern" class="err">Number Only<br></small>
+                        <small *ngIf="invForm.get('unitprice').errors?.min" class="err">Unitprice must be greater than 0</small>
+          
+        </div> 
+    </div>
+
+   <div> <label>Tags</label>
+            <input type="text" formControlName="tags"></div>
+
+  <div> <label>Last Updated</label>
+    <input [class.is-invalid]="invForm.get('lastupated').invalid && invForm.get('lastupated').touched" formControlName="lastupated" type="text" class="form-control" placeholder="DD--MM--YYYY" placeholder="Last Updated">
+    <div *ngIf="invForm.get('lastupated').errors && (invForm.get('lastupated').dirty || invForm.get('lastupated').touched)">
+      <small *ngIf="invForm.get('lastupated').errors?.required" class="err">Last Updated is required</small>
+      <small *ngIf="invForm.get('lastupated').errors.pattern" class="err">Must follow the pattern DD-MM-YYYY<br></small>
+    </div>
+    </div>
+
+<div formGroupName="location">
+   <div><label>Area</label>
+    <input type="text" formControlName="area"></div> 
+   <div> <label>zone</label>
+    <input type="text" formControlName="zone"></div>
+    <div> <label>Shelf</label>
+    <input type="text" formControlName="shelf"></div>
+</div>
+
+ <div> <label>Description</label>
+    <input [class.is-invalid]="invForm.get('description').invalid && invForm.get('description').touched" formControlName="description" type="text" class="form-control" placeholder="Description">
+    <div *ngIf="invForm.get('description').invalid && invForm.get('description').touched">
+      <small *ngIf="invForm.get('description').errors?.required" class="err">Description is required</small>
+      <small *ngIf="invForm.get('description').errors?.minlength" class="err">Description must be at least 20 characters</small>
+</div>    
+ </div>
+<button type="submit" [disabled]="!invForm.valid" (click)="setData()">Add</button>
+<button type="submit" (click)="updateData()">Update</button>
+
+</div>
+</form>

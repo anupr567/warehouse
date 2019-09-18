@@ -1,0 +1,1097 @@
+{
+  "inventories": [
+    {
+      "productname": "commodo reino",
+      "category": "BAB",
+      "availableunits": 179,
+      "unitprice": 9594,
+      "tags": [
+        "aliqua",
+        "quis",
+        "dolore"
+      ],
+      "lastupated": "2015-10-25T05:14:09 -06:-30",
+      "location": {
+        "area": null,
+        "zone": null,
+        "shelf": null
+      },
+      "description": "sunt irure labore excepteur et sunt non consequat et laboris incididunt veniam incididunt mollit in aliquip Lorem ut nulla velit",
+      "id": 121,
+      "units": "56789",
+      "lastupdated": "2015-10-25T05:14:09 -06:-30"
+    },
+    {
+      "productname": "incididunt mollyt",
+      "category": "ABA",
+      "availableunits": 216,
+      "unitprice": 3244,
+      "tags": [
+        "ut",
+        "exercitation",
+        "veniam"
+      ],
+      "lastupated": "2016-11-22T03:01:02 -06:-30",
+      "location": {
+        "area": null,
+        "zone": null,
+        "shelf": null
+      },
+      "description": "labore voluptate in eu culpa culpa laboris cupidatat veniam reprehenderit ex ipsum proident est nisi cupidatat duis non eu ex",
+      "id": 122,
+      "units": null,
+      "lastupdated": null
+    },
+    {
+      "productname": "sint proident",
+      "category": "ABB",
+      "availableunits": 165,
+      "unitprice": 9287,
+      "tags": [
+        "quis",
+        "fugiat",
+        "ullamco"
+      ],
+      "lastupated": "2015-11-16T03:21:54 -06:-30",
+      "location": {
+        "area": "Bangalore-south",
+        "zone": "Carrizo-577",
+        "shelf": "FB0123"
+      },
+      "description": "cupidatat esse nostrud elit aliqua nulla fugiat magna sit magna aute proident ullamco commodo dolore exercitation officia cillum veniam id",
+      "id": 123
+    },
+    {
+      "productname": "ad nostrud",
+      "category": "ABB",
+      "availableunits": 173,
+      "unitprice": 6520,
+      "tags": [
+        "dolore",
+        "culpa",
+        "ea"
+      ],
+      "lastupated": "2016-05-26T10:17:45 -06:-30",
+      "location": {
+        "area": "Bangalore-west",
+        "zone": "Norwood-204",
+        "shelf": "FD0097"
+      },
+      "description": "cillum eu aute esse sunt esse aute laboris officia irure et ipsum anim occaecat excepteur enim anim mollit deserunt qui",
+      "id": 124,
+      "lastupdated": "2016-05-26T10:17:45 -06:-30"
+    },
+    {
+      "productname": "cillum suntu",
+      "category": "ABA",
+      "availableunits": 57,
+      "unitprice": 9951,
+      "tags": [
+        "enim",
+        "occaecat",
+        "tempor"
+      ],
+      "lastupated": "2015-09-23T06:22:08 -06:-30",
+      "location": {
+        "area": "Bangalore-west",
+        "zone": "Cannondale-803",
+        "shelf": "FD0097"
+      },
+      "description": "eiusmod nulla minim labore irure irure pariatur veniam enim mollit reprehenderit deserunt veniam amet consectetur commodo proident ullamco qui tempor",
+      "id": 125,
+      "lastupdated": "2015-09-23T06:22:08 -06:-30"
+    },
+    {
+      "productname": "qui cillum",
+      "category": "BAB",
+      "availableunits": 68,
+      "unitprice": 4481,
+      "tags": [
+        "fugiat",
+        "nulla",
+        "minim"
+      ],
+      "lastupated": "2017-04-10T09:37:12 -06:-30",
+      "location": {
+        "area": "Bangalore-east",
+        "zone": "Aberdeen-743",
+        "shelf": "FA0102"
+      },
+      "description": "pariatur nulla est nulla dolore eu Lorem culpa laboris aliquip tempor incididunt magna sit esse ut aliqua minim nostrud incididunt",
+      "id": 126
+    },
+    {
+      "productname": "est sit",
+      "category": "ABA",
+      "availableunits": 216,
+      "unitprice": 9061,
+      "tags": [
+        "aliquip",
+        "culpa",
+        "sit"
+      ],
+      "lastupated": "2018-08-17T10:53:41 -06:-30",
+      "location": {
+        "area": "Bangalore-north",
+        "zone": "Calvary-120",
+        "shelf": "FC0204"
+      },
+      "description": "occaecat consectetur velit ut labore minim magna dolore veniam ex dolore laborum pariatur eiusmod mollit quis excepteur sint elit officia",
+      "id": 127
+    },
+    {
+      "productname": "cillum irure",
+      "category": "ABA",
+      "availableunits": 22,
+      "unitprice": 1696,
+      "tags": [
+        "ea",
+        "non",
+        "veniam"
+      ],
+      "lastupated": "2017-10-05T12:14:14 -06:-30",
+      "location": {
+        "area": "Bangalore-west",
+        "zone": "Kylertown-146",
+        "shelf": "FB0123"
+      },
+      "description": "cillum eu sint sunt est nulla deserunt aliquip pariatur est ea ullamco deserunt laboris enim ex sunt dolore quis quis",
+      "id": 128
+    },
+    {
+      "productname": "velit id",
+      "category": "ABA",
+      "availableunits": 372,
+      "unitprice": 1899,
+      "tags": [
+        "reprehenderit",
+        "adipisicing",
+        "do"
+      ],
+      "lastupated": "2015-09-06T05:55:53 -06:-30",
+      "location": {
+        "area": "Bangalore-south",
+        "zone": "Dale-461",
+        "shelf": "FD0097"
+      },
+      "description": "ullamco nisi commodo incididunt ipsum do sit dolor eu reprehenderit Lorem reprehenderit dolore aliqua laborum tempor est fugiat amet dolore",
+      "id": 129
+    },
+    {
+      "productname": "cillum excepteur",
+      "category": "ABB",
+      "availableunits": 55,
+      "unitprice": 873,
+      "tags": [
+        "fugiat",
+        "nulla",
+        "occaecat"
+      ],
+      "lastupated": "2018-06-25T11:14:33 -06:-30",
+      "location": {
+        "area": "Bangalore-south",
+        "zone": "Bakersville-471",
+        "shelf": "FC0204"
+      },
+      "description": "ullamco aliqua nostrud eu adipisicing ad ad labore veniam minim quis exercitation deserunt esse labore id dolore commodo incididunt do",
+      "id": 130
+    },
+    {
+      "productname": "tempor quis",
+      "category": "BAB",
+      "availableunits": 302,
+      "unitprice": 4417,
+      "tags": [
+        "cillum",
+        "reprehenderit",
+        "eiusmod"
+      ],
+      "lastupated": "2016-10-06T03:30:11 -06:-30",
+      "location": {
+        "area": "Bangalore-south",
+        "zone": "Summerset-761",
+        "shelf": "FD0097"
+      },
+      "description": "anim aliquip laborum sunt laborum ipsum aute labore non non aliquip cupidatat officia pariatur fugiat nostrud pariatur dolor adipisicing velit",
+      "id": 131
+    },
+    {
+      "productname": "dolor adipisicing",
+      "category": "ABA",
+      "availableunits": 430,
+      "unitprice": 2335,
+      "tags": [
+        "dolor",
+        "exercitation",
+        "labore"
+      ],
+      "lastupated": "2018-05-20T09:57:45 -06:-30",
+      "location": {
+        "area": "Bangalore-west",
+        "zone": "Hollymead-913",
+        "shelf": "FC0204"
+      },
+      "description": "deserunt officia dolor ullamco quis tempor ex nisi amet ex Lorem ut sunt non sint consequat exercitation non voluptate qui",
+      "id": 132
+    },
+    {
+      "productname": "cupidatat ipsum",
+      "category": "BAB",
+      "availableunits": 236,
+      "unitprice": 8243,
+      "tags": [
+        "exercitation",
+        "sit",
+        "do"
+      ],
+      "lastupated": "2015-04-28T07:42:36 -06:-30",
+      "location": {
+        "area": "Bangalore-north",
+        "zone": "Dunlo-279",
+        "shelf": "FC0204"
+      },
+      "description": "aliquip dolore duis veniam ea proident exercitation sunt ut amet ullamco veniam do velit eu sit voluptate cupidatat magna aliqua",
+      "id": 132
+    },
+    {
+      "productname": "anim eu",
+      "category": "ABA",
+      "availableunits": 108,
+      "unitprice": 1061,
+      "tags": [
+        "proident",
+        "id",
+        "sit"
+      ],
+      "lastupated": "2014-06-30T12:40:07 -06:-30",
+      "location": {
+        "area": "Bangalore-east",
+        "zone": "Idamay-364",
+        "shelf": "FC0204"
+      },
+      "description": "enim consequat aliqua duis nostrud consectetur dolore cupidatat nulla aliqua aute nostrud velit culpa ullamco mollit laboris deserunt cillum est",
+      "id": 133
+    },
+    {
+      "productname": "do exercitation",
+      "category": "ABB",
+      "availableunits": 485,
+      "unitprice": 3755,
+      "tags": [
+        "fugiat",
+        "duis",
+        "excepteur"
+      ],
+      "lastupated": "2014-10-11T02:20:40 -06:-30",
+      "location": {
+        "area": "Bangalore-west",
+        "zone": "Fedora-146",
+        "shelf": "FC0204"
+      },
+      "description": "magna mollit dolor exercitation proident incididunt proident sint consectetur ea ea cillum et commodo veniam culpa fugiat commodo nostrud sit",
+      "id": 134
+    },
+    {
+      "productname": "occaecat id",
+      "category": "ABA",
+      "availableunits": 408,
+      "unitprice": 5386,
+      "tags": [
+        "eiusmod",
+        "proident",
+        "ut"
+      ],
+      "lastupated": "2015-07-03T08:45:14 -06:-30",
+      "location": {
+        "area": "Bangalore-west",
+        "zone": "Morningside-605",
+        "shelf": "FA0102"
+      },
+      "description": "tempor eu ipsum aute sunt dolore ex culpa aute quis sit esse voluptate esse deserunt elit quis occaecat incididunt ex",
+      "id": 135
+    },
+    {
+      "productname": "proident non",
+      "category": "ABB",
+      "availableunits": 167,
+      "unitprice": 4261,
+      "tags": [
+        "ad",
+        "aute",
+        "deserunt"
+      ],
+      "lastupated": "2016-06-30T07:36:09 -06:-30",
+      "location": {
+        "area": "Bangalore-west",
+        "zone": "Ripley-326",
+        "shelf": "FD0097"
+      },
+      "description": "consectetur laborum est elit quis Lorem proident culpa exercitation consequat dolor minim Lorem laborum in cillum aliquip et amet deserunt",
+      "id": 136
+    },
+    {
+      "productname": "non consectetur",
+      "category": "ABA",
+      "availableunits": 400,
+      "unitprice": 5130,
+      "tags": [
+        "eu",
+        "id",
+        "irure"
+      ],
+      "lastupated": "2016-06-16T05:39:40 -06:-30",
+      "location": {
+        "area": "Bangalore-west",
+        "zone": "Woodlands-673",
+        "shelf": "FD0097"
+      },
+      "description": "dolore proident exercitation qui adipisicing laboris pariatur ea irure non ipsum sint eiusmod aute ipsum in dolor sit magna aute",
+      "id": 137
+    },
+    {
+      "productname": "officia ad",
+      "category": "BAB",
+      "availableunits": 288,
+      "unitprice": 890,
+      "tags": [
+        "amet",
+        "minim",
+        "cupidatat"
+      ],
+      "lastupated": "2015-10-08T02:17:44 -06:-30",
+      "location": {
+        "area": "Bangalore-west",
+        "zone": "Wiscon-254",
+        "shelf": "FD0097"
+      },
+      "description": "non ullamco adipisicing dolor exercitation proident do amet occaecat voluptate officia nostrud laborum velit deserunt dolore exercitation dolor nulla consequat",
+      "id": 138
+    },
+    {
+      "productname": "irure ea",
+      "category": "ABB",
+      "availableunits": 11,
+      "unitprice": 8594,
+      "tags": [
+        "Lorem",
+        "labore",
+        "aute"
+      ],
+      "lastupated": "2018-02-17T05:32:21 -06:-30",
+      "location": {
+        "area": "Bangalore-east",
+        "zone": "Mulino-993",
+        "shelf": "FD0097"
+      },
+      "description": "et ut occaecat commodo dolore officia veniam amet fugiat labore reprehenderit est ipsum duis laborum incididunt cillum voluptate ea Lorem",
+      "id": 139
+    },
+    {
+      "productname": "est reprehenderit",
+      "category": "ABA",
+      "availableunits": 134,
+      "unitprice": 8040,
+      "tags": [
+        "non",
+        "laboris",
+        "eiusmod"
+      ],
+      "lastupated": "2014-10-15T11:30:12 -06:-30",
+      "location": {
+        "area": "Bangalore-east",
+        "zone": "Rosedale-511",
+        "shelf": "FA0102"
+      },
+      "description": "voluptate deserunt eu proident nulla nostrud in laborum laboris nulla ut consequat incididunt aute minim cupidatat tempor deserunt dolor quis",
+      "id": 140
+    },
+    {
+      "productname": "consectetur ipsum",
+      "category": "ABB",
+      "availableunits": 108,
+      "unitprice": 4251,
+      "tags": [
+        "dolore",
+        "aliqua",
+        "excepteur"
+      ],
+      "lastupated": "2017-04-18T05:37:22 -06:-30",
+      "location": {
+        "area": "Bangalore-west",
+        "zone": "Neibert-418",
+        "shelf": "FD0097"
+      },
+      "description": "excepteur officia sit proident aute qui eu reprehenderit pariatur commodo mollit velit et magna aute sint cillum occaecat exercitation nisi",
+      "id": 141
+    },
+    {
+      "productname": "nulla sit",
+      "category": "ABB",
+      "availableunits": 444,
+      "unitprice": 7542,
+      "tags": [
+        "duis",
+        "ea",
+        "et"
+      ],
+      "lastupated": "2017-07-31T11:27:20 -06:-30",
+      "location": {
+        "area": "Bangalore-north",
+        "zone": "Starks-577",
+        "shelf": "FA0102"
+      },
+      "description": "velit amet nostrud consequat excepteur nostrud aute laboris minim irure do occaecat qui aliquip tempor quis nostrud nostrud fugiat aliquip",
+      "id": 142
+    },
+    {
+      "productname": "exercitation dolore",
+      "category": "BAB",
+      "availableunits": 253,
+      "unitprice": 6031,
+      "tags": [
+        "laboris",
+        "reprehenderit",
+        "aliquip"
+      ],
+      "lastupated": "2018-02-16T07:46:28 -06:-30",
+      "location": {
+        "area": "Bangalore-east",
+        "zone": "Whipholt-876",
+        "shelf": "FA0102"
+      },
+      "description": "aliqua officia aliquip consectetur reprehenderit aute nisi nostrud sint enim cupidatat non ipsum voluptate eiusmod qui mollit eiusmod deserunt do",
+      "id": 143
+    },
+    {
+      "productname": "dolor dolor",
+      "category": "BAB",
+      "availableunits": 322,
+      "unitprice": 7791,
+      "tags": [
+        "cupidatat",
+        "laborum",
+        "voluptate"
+      ],
+      "lastupated": "2016-05-22T10:43:22 -06:-30",
+      "location": {
+        "area": "Bangalore-east",
+        "zone": "Lisco-408",
+        "shelf": "FA0102"
+      },
+      "description": "enim qui est eiusmod est esse deserunt eiusmod mollit cillum sit ad est minim nulla reprehenderit ut voluptate non irure",
+      "id": 144
+    },
+    {
+      "productname": "proident duis",
+      "category": "ABA",
+      "availableunits": 350,
+      "unitprice": 1251,
+      "tags": [
+        "cupidatat",
+        "voluptate",
+        "commodo"
+      ],
+      "lastupated": "2017-11-25T08:25:53 -06:-30",
+      "location": {
+        "area": "Bangalore-north",
+        "zone": "Belva-193",
+        "shelf": "FC0204"
+      },
+      "description": "nostrud minim esse irure amet cillum pariatur mollit ullamco incididunt quis duis occaecat cillum officia consectetur sint commodo nisi veniam",
+      "id": 145
+    },
+    {
+      "productname": "quis enim",
+      "category": "ABB",
+      "availableunits": 349,
+      "unitprice": 9822,
+      "tags": [
+        "voluptate",
+        "cupidatat",
+        "ea"
+      ],
+      "lastupated": "2016-11-24T03:36:34 -06:-30",
+      "location": {
+        "area": "Bangalore-south",
+        "zone": "Topanga-952",
+        "shelf": "FD0097"
+      },
+      "description": "do laboris amet veniam dolor culpa sint occaecat sint commodo irure non veniam minim eu cillum excepteur id exercitation proident",
+      "id": 146
+    },
+    {
+      "productname": "quis elit",
+      "category": "ABA",
+      "availableunits": 323,
+      "unitprice": 2788,
+      "tags": [
+        "aliqua",
+        "incididunt",
+        "minim"
+      ],
+      "lastupated": "2015-06-27T08:42:47 -06:-30",
+      "location": {
+        "area": "Bangalore-south",
+        "zone": "Brandywine-820",
+        "shelf": "FC0204"
+      },
+      "description": "ex veniam incididunt Lorem veniam magna amet sunt ut cupidatat in cupidatat veniam consequat consectetur ipsum velit quis non officia",
+      "id": 147
+    },
+    {
+      "productname": "exercitation ipsum",
+      "category": "ABA",
+      "availableunits": 144,
+      "unitprice": 6437,
+      "tags": [
+        "adipisicing",
+        "commodo",
+        "sint"
+      ],
+      "lastupated": "2019-06-18T04:10:51 -06:-30",
+      "location": {
+        "area": "Bangalore-west",
+        "zone": "Santel-966",
+        "shelf": "FA0102"
+      },
+      "description": "irure dolor dolor non dolore cupidatat quis amet non deserunt eu cillum aliquip nostrud fugiat ex proident excepteur ex aliqua",
+      "id": 148
+    },
+    {
+      "productname": "nostrud ut",
+      "category": "ABB",
+      "availableunits": 99,
+      "unitprice": 6872,
+      "tags": [
+        "magna",
+        "incididunt",
+        "in"
+      ],
+      "lastupated": "2014-07-29T01:36:16 -06:-30",
+      "location": {
+        "area": "Bangalore-north",
+        "zone": "Zeba-999",
+        "shelf": "FD0097"
+      },
+      "description": "exercitation exercitation tempor do proident est esse voluptate qui ipsum cupidatat culpa magna pariatur amet eiusmod qui magna duis ea",
+      "id": 149
+    },
+    {
+      "productname": "sunt aute",
+      "category": "BAB",
+      "availableunits": 23,
+      "unitprice": 5124,
+      "tags": [
+        "eiusmod",
+        "culpa",
+        "et"
+      ],
+      "lastupated": "2019-08-03T06:37:22 -06:-30",
+      "location": {
+        "area": "Bangalore-west",
+        "zone": "Bowden-352",
+        "shelf": "FB0123"
+      },
+      "description": "nostrud adipisicing cillum Lorem officia ut mollit irure culpa cillum ea eu dolore ea laborum sunt labore incididunt sint eu",
+      "id": 150
+    },
+    {
+      "productname": "ea incididunt",
+      "category": "BAB",
+      "availableunits": 134,
+      "unitprice": 6418,
+      "tags": [
+        "nulla",
+        "irure",
+        "tempor"
+      ],
+      "lastupated": "2018-04-24T01:28:45 -06:-30",
+      "location": {
+        "area": "Bangalore-west",
+        "zone": "Glasgow-170",
+        "shelf": "FC0204"
+      },
+      "description": "do nisi do commodo minim non ex anim ullamco ipsum minim adipisicing dolor reprehenderit id officia laborum duis ea tempor",
+      "id": 151
+    },
+    {
+      "productname": "proident laborum",
+      "category": "ABA",
+      "availableunits": 215,
+      "unitprice": 8052,
+      "tags": [
+        "ullamco",
+        "consequat",
+        "elit"
+      ],
+      "lastupated": "2015-12-31T07:42:24 -06:-30",
+      "location": {
+        "area": "Bangalore-west",
+        "zone": "Kenmar-288",
+        "shelf": "FD0097"
+      },
+      "description": "nisi irure excepteur aliquip in excepteur quis ipsum nulla culpa nisi proident ad nulla aute tempor anim ex qui sit",
+      "id": 152
+    },
+    {
+      "productname": "veniam ullam",
+      "category": "BAB",
+      "availableunits": 200,
+      "unitprice": 8045,
+      "tags": [
+        "deserunt",
+        "anim",
+        "sunt"
+      ],
+      "lastupated": "2017-06-15T07:59:31 -06:-30",
+      "location": {
+        "area": null,
+        "zone": null,
+        "shelf": null
+      },
+      "description": "sit dolor in in aute duis Lorem veniam in ad sunt consectetur officia fugiat aute ad dolore ex dolor consectetur",
+      "id": 153,
+      "units": null,
+      "lastupdated": null
+    },
+    {
+      "productname": "elit magna",
+      "category": "ABA",
+      "availableunits": 409,
+      "unitprice": 9260,
+      "tags": [
+        "irure",
+        "laborum",
+        "voluptate"
+      ],
+      "lastupated": "2015-01-28T08:02:36 -06:-30",
+      "location": {
+        "area": "Bangalore-west",
+        "zone": "Saddlebrooke-495",
+        "shelf": "FC0204"
+      },
+      "description": "ipsum adipisicing duis ea et sint eu nisi occaecat occaecat elit amet irure nulla ipsum irure nisi elit pariatur sunt",
+      "id": 154
+    },
+    {
+      "productname": "velit labore",
+      "category": "ABB",
+      "availableunits": 475,
+      "unitprice": 2501,
+      "tags": [
+        "sint",
+        "incididunt",
+        "aliqua"
+      ],
+      "lastupated": "2017-10-11T08:21:17 -06:-30",
+      "location": {
+        "area": "Bangalore-south",
+        "zone": "Avoca-808",
+        "shelf": "FB0123"
+      },
+      "description": "magna occaecat cillum qui incididunt officia velit aliqua esse non ipsum labore ipsum elit minim fugiat enim adipisicing exercitation enim",
+      "id": 155
+    },
+    {
+      "productname": "dolor culpa",
+      "category": "ABA",
+      "availableunits": 149,
+      "unitprice": 5760,
+      "tags": [
+        "culpa",
+        "nostrud",
+        "cupidatat"
+      ],
+      "lastupated": "2015-09-14T02:57:32 -06:-30",
+      "location": {
+        "area": "Bangalore-east",
+        "zone": "Catherine-992",
+        "shelf": "FA0102"
+      },
+      "description": "adipisicing adipisicing ullamco ut nulla dolor velit ullamco esse enim aliqua ipsum sunt minim ea incididunt eiusmod ut esse do",
+      "id": 156
+    },
+    {
+      "productname": "culpa enim",
+      "category": "ABB",
+      "availableunits": 323,
+      "unitprice": 695,
+      "tags": [
+        "sint",
+        "elit",
+        "laborum"
+      ],
+      "lastupated": "2015-09-22T09:05:17 -06:-30",
+      "location": {
+        "area": "Bangalore-north",
+        "zone": "Allensworth-187",
+        "shelf": "FB0123"
+      },
+      "description": "dolore ea est magna non occaecat nisi sit ut ullamco fugiat consectetur incididunt sit dolor aute laborum est id reprehenderit",
+      "id": 157
+    },
+    {
+      "productname": "veniam dolore",
+      "category": "BAB",
+      "availableunits": 212,
+      "unitprice": 3781,
+      "tags": [
+        "consequat",
+        "cupidatat",
+        "aliquip"
+      ],
+      "lastupated": "2017-06-03T09:22:14 -06:-30",
+      "location": {
+        "area": "Bangalore-east",
+        "zone": "Broadlands-743",
+        "shelf": "FD0097"
+      },
+      "description": "aliqua eu ea eiusmod fugiat dolor fugiat cupidatat consectetur tempor commodo aliquip laboris incididunt culpa anim consequat consequat consequat elit",
+      "id": 158
+    },
+    {
+      "productname": "aliquip id",
+      "category": "ABB",
+      "availableunits": 490,
+      "unitprice": 4921,
+      "tags": [
+        "sit",
+        "cupidatat",
+        "sint"
+      ],
+      "lastupated": "2015-05-16T10:36:47 -06:-30",
+      "location": {
+        "area": "Bangalore-east",
+        "zone": "Westmoreland-898",
+        "shelf": "FD0097"
+      },
+      "description": "consequat laboris nulla officia aliquip Lorem in ea voluptate velit reprehenderit officia fugiat anim cupidatat exercitation voluptate elit pariatur aliquip",
+      "id": 159
+    },
+    {
+      "productname": "fugiat deserunt",
+      "category": "ABB",
+      "availableunits": 60,
+      "unitprice": 7831,
+      "tags": [
+        "ex",
+        "nostrud",
+        "quis"
+      ],
+      "lastupated": "2015-01-09T01:09:00 -06:-30",
+      "location": {
+        "area": "Bangalore-south",
+        "zone": "Winfred-672",
+        "shelf": "FA0102"
+      },
+      "description": "voluptate non id enim nisi cupidatat veniam duis minim sint dolore occaecat occaecat do qui minim adipisicing Lorem irure enim",
+      "id": 160
+    },
+    {
+      "productname": "ad ea",
+      "category": "BAB",
+      "availableunits": 487,
+      "unitprice": 3905,
+      "tags": [
+        "elit",
+        "pariatur",
+        "veniam"
+      ],
+      "lastupated": "2018-01-15T08:02:13 -06:-30",
+      "location": {
+        "area": "Bangalore-west",
+        "zone": "Mulberry-887",
+        "shelf": "FD0097"
+      },
+      "description": "Lorem elit reprehenderit velit sint veniam fugiat sint sint est esse occaecat do pariatur adipisicing ipsum dolore anim nisi enim",
+      "id": 161
+    },
+    {
+      "productname": "eu magna",
+      "category": "BAB",
+      "availableunits": 300,
+      "unitprice": 3506,
+      "tags": [
+        "reprehenderit",
+        "sit",
+        "tempor"
+      ],
+      "lastupated": "2017-05-20T02:44:02 -06:-30",
+      "location": {
+        "area": "Bangalore-west",
+        "zone": "Glendale-805",
+        "shelf": "FC0204"
+      },
+      "description": "reprehenderit ullamco tempor cillum ut cupidatat ut eu ex Lorem sit deserunt quis mollit officia non nostrud commodo irure nisi",
+      "id": 162
+    },
+    {
+      "productname": "aliquip ullamco",
+      "category": "ABB",
+      "availableunits": 399,
+      "unitprice": 3893,
+      "tags": [
+        "enim",
+        "consequat",
+        "commodo"
+      ],
+      "lastupated": "2014-11-29T07:13:37 -06:-30",
+      "location": {
+        "area": "Bangalore-east",
+        "zone": "Waterford-793",
+        "shelf": "FB0123"
+      },
+      "description": "cillum amet aute velit cillum sint in anim minim voluptate elit incididunt nulla cupidatat et tempor elit eu eu exercitation",
+      "id": 163
+    },
+    {
+      "productname": "culpa ut",
+      "category": "BAB",
+      "availableunits": 60,
+      "unitprice": 5347,
+      "tags": [
+        "cupidatat",
+        "cillum",
+        "ex"
+      ],
+      "lastupated": "2016-11-30T05:23:01 -06:-30",
+      "location": {
+        "area": "Bangalore-north",
+        "zone": "Waumandee-733",
+        "shelf": "FD0097"
+      },
+      "description": "dolore cillum velit et amet sit in aliqua labore reprehenderit eiusmod consectetur enim labore est elit enim aliqua elit exercitation",
+      "id": 164
+    },
+    {
+      "productname": "labore labore",
+      "category": "BAB",
+      "availableunits": 433,
+      "unitprice": 701,
+      "tags": [
+        "nostrud",
+        "reprehenderit",
+        "consectetur"
+      ],
+      "lastupated": "2014-01-29T11:27:01 -06:-30",
+      "location": {
+        "area": "Bangalore-east",
+        "zone": "Chesapeake-166",
+        "shelf": "FA0102"
+      },
+      "description": "id velit id esse fugiat occaecat excepteur tempor ut proident occaecat laborum nostrud id dolore esse proident esse sunt exercitation",
+      "id": 165
+    },
+    {
+      "productname": "reprehenderit magna",
+      "category": "ABB",
+      "availableunits": 174,
+      "unitprice": 9407,
+      "tags": [
+        "sunt",
+        "ea",
+        "velit"
+      ],
+      "lastupated": "2014-07-30T02:52:30 -06:-30",
+      "location": {
+        "area": "Bangalore-west",
+        "zone": "Roulette-466",
+        "shelf": "FB0123"
+      },
+      "description": "aliquip nulla consectetur consequat ut tempor dolore nisi est officia tempor veniam Lorem mollit laborum eu eiusmod ad dolor reprehenderit",
+      "id": 166
+    },
+    {
+      "productname": "aliquip velit",
+      "category": "BAB",
+      "availableunits": 38,
+      "unitprice": 2812,
+      "tags": [
+        "cupidatat",
+        "labore",
+        "veniam"
+      ],
+      "lastupated": "2016-12-23T06:12:57 -06:-30",
+      "location": {
+        "area": "Bangalore-west",
+        "zone": "Dunbar-781",
+        "shelf": "FA0102"
+      },
+      "description": "Lorem ea reprehenderit ex commodo aliquip minim cupidatat veniam nisi nostrud exercitation mollit non exercitation minim non cupidatat Lorem elit",
+      "id": 167
+    },
+    {
+      "productname": "eu officia",
+      "category": "BAB",
+      "availableunits": 187,
+      "unitprice": 9997,
+      "tags": [
+        "amet",
+        "est",
+        "cupidatat"
+      ],
+      "lastupated": "2019-05-09T06:23:46 -06:-30",
+      "location": {
+        "area": "Bangalore-east",
+        "zone": "Stagecoach-748",
+        "shelf": "FC0204"
+      },
+      "description": "officia magna duis excepteur excepteur labore dolor pariatur est incididunt dolor pariatur consequat sit proident sint ipsum nostrud proident veniam",
+      "id": 168
+    },
+    {
+      "productname": "culpa nostrud",
+      "category": "BAB",
+      "availableunits": 319,
+      "unitprice": 4243,
+      "tags": [
+        "aliqua",
+        "est",
+        "eiusmod"
+      ],
+      "lastupated": "2015-02-15T08:24:14 -06:-30",
+      "location": {
+        "area": "Bangalore-west",
+        "zone": "Grayhawk-893",
+        "shelf": "FD0097"
+      },
+      "description": "voluptate quis consectetur ipsum excepteur incididunt minim labore laborum eu ipsum amet qui pariatur ullamco dolore enim ullamco id nostrud",
+      "id": 169
+    },
+    {
+      "productname": "aa",
+      "category": "aaa",
+      "units": "12",
+      "unitprice": "123",
+      "tags": "aaa",
+      "lastupdated": "aa",
+      "location": {
+        "area": "aaa",
+        "zone": "aaaa",
+        "shelf": "aaaa"
+      },
+      "description": "aaa",
+      "id": "2a7e21d2-28f0-458d-9711-c9456bdd8d04"
+    },
+    {
+      "productname": "hfh",
+      "category": "fhfhfhgf",
+      "units": "6",
+      "unitprice": "6",
+      "tags": "ghfghf",
+      "lastupdated": "jvjhfjhfhf",
+      "location": {
+        "area": "fhfhfhg",
+        "zone": "fhgfghf",
+        "shelf": "hgfghfghf"
+      },
+      "description": "hhfhgfghfhgfhgfghfhg",
+      "id": "fde607fa-ecfb-441e-b5ec-200b6c41afab"
+    },
+    {
+      "productname": "hfh",
+      "category": "fhfhfhgf",
+      "units": "6",
+      "unitprice": "6",
+      "tags": "ghfghf",
+      "lastupdated": "jvjhfjhfhf",
+      "location": {
+        "area": "fhfhfhg",
+        "zone": "fhgfghf",
+        "shelf": "hgfghfghf"
+      },
+      "description": "hhfhgfghfhgfhgfghfhg",
+      "id": "6db2223e-6bb7-47fa-8ad2-378ea0da0431"
+    },
+    {
+      "productname": "hfh",
+      "category": "fhfhfhgf",
+      "units": "6",
+      "unitprice": "6",
+      "tags": "ghfghf",
+      "lastupdated": "jvjhfjhfhf",
+      "location": {
+        "area": "fhfhfhg",
+        "zone": "fhgfghf",
+        "shelf": "hgfghfghf"
+      },
+      "description": "hhfhgfghfhgfhgfghfhg",
+      "id": "234e0c63-4ae7-40ff-afb7-bc1cff676374"
+    },
+    {
+      "productname": "asdfgh",
+      "category": "asd",
+      "units": "78",
+      "unitprice": "789",
+      "tags": "tyu",
+      "lastupdated": "ghj",
+      "location": {
+        "area": "ghjkk",
+        "zone": "hhjjj",
+        "shelf": "hjjk"
+      },
+      "description": "hyure",
+      "id": "f1344136-4c20-4924-9886-353c19979378"
+    },
+    {
+      "productname": "yamaha",
+      "category": "ASA",
+      "availableunits": "45",
+      "unitprice": "200000",
+      "tags": "tyu, rty, yuiop",
+      "lastupated": "20-06-2019",
+      "location": {
+        "area": "bangalore-north",
+        "zone": "kormangala",
+        "shelf": "sdfghh"
+      },
+      "description": "hlsdfhifhjkdfjkscuksvisvbjkscjscgusfguscjs",
+      "id": "8d9b0360-b1ff-47f6-adf7-044d3f8e1bd9"
+    },
+    {
+      "productname": "suzuki gixer",
+      "category": "bike",
+      "availableunits": "23678",
+      "unitprice": "560000",
+      "tags": "were,fghj,uiop",
+      "lastupated": "2019-09-08",
+      "location": {
+        "area": "dccjdece",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "dsddsdsdsdsddsdds",
+      "id": "6cadcdf0-92d8-4c3e-bc42-f796cc5fbaa1"
+    },
+    {
+      "productname": "anurah",
+      "category": "tyty",
+      "availableunits": "56",
+      "unitprice": "88",
+      "tags": "ffg",
+      "lastupated": "tyttu",
+      "location": {
+        "area": "kjkk",
+        "zone": "hhkhk",
+        "shelf": "hhk"
+      },
+      "description": "hkhkhkhkhkh",
+      "id": "fb003729-e11a-46b9-a354-0cd2777f5995"
+    },
+    {
+      "productname": "aaassss",
+      "category": "DER",
+      "availableunits": "567",
+      "unitprice": "789000",
+      "tags": "ghi",
+      "lastupated": "06-07-2019",
+      "location": {
+        "area": "tytyuyu",
+        "zone": "uiui",
+        "shelf": "jhjhj"
+      },
+      "description": "fgfghfhghghhvhvh",
+      "id": "432c73b3-5822-4ccc-b715-d42c5446c359"
+    }
+  ]
+}
