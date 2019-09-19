@@ -9,8 +9,8 @@
 
    
     <ng-container matColumnDef="productname">
-      <mat-header-cell mat-sort-header *matHeaderCellDef> product name</mat-header-cell>
-      <mat-cell *matCellDef="let element" (click)="editinv(element)"> {{element.productname}} </mat-cell>
+      <mat-header-cell mat-sort-header *matHeaderCellDef>  product name</mat-header-cell>
+      <mat-cell *matCellDef="let element" > <a class="nameroute" routerLink="/inventory/input/{{element.productname}}" routerLinkActive="active">{{element.productname}} </a></mat-cell>
     </ng-container>
   
    

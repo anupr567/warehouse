@@ -9,7 +9,9 @@ import { AddInventoryComponent } from './add-inventory/add-inventory.component';
 import { InventoryDetailComponent } from './inventory-detail/inventory-detail.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MaterialModule } from './material/material.module';
-import {HttpClientModule} from '@angular/common/http' ;
+import {HttpClientModule} from '@angular/common/http';
+import { DialogComponent } from './dialog/dialog.component' ;
+
 
 @NgModule({
   declarations: [
@@ -17,7 +19,8 @@ import {HttpClientModule} from '@angular/common/http' ;
     LandingComponent,
     InventoryListComponent,
     AddInventoryComponent,
-    InventoryDetailComponent
+    InventoryDetailComponent,
+    DialogComponent
   ],
   imports: [
     BrowserModule,
@@ -30,6 +33,7 @@ import {HttpClientModule} from '@angular/common/http' ;
   ],
   schemas: [ CUSTOM_ELEMENTS_SCHEMA ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
+  entryComponents: [DialogComponent]
 })
 export class AppModule { }

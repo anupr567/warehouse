@@ -67,7 +67,7 @@ describe('AddInventoryComponent', () => {
   // tslint:disable-next-line: no-string-literal
   expect(errors['min']).toBeTruthy();
 
-  units.setValue('-3');
+  units.setValue('-8');
   errors = units.errors || {};
   // tslint:disable-next-line: no-string-literal
   expect(errors['pattern']).toBeTruthy();

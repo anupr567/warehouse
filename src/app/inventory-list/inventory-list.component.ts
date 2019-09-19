@@ -31,9 +31,9 @@ onClick() {
 applyFilter(filterValue: string) {
 this.dataSource.filter = filterValue.trim().toLowerCase();
 }
-editinv(el) {
-  this.router.navigate(['/inventory/input', el.productname ]);
+// editinv(el) {
+//   this.router.navigate(['/inventory/input', el.productname ]);
 
-}
+// }
 }
 
