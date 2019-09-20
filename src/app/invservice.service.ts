@@ -61,7 +61,7 @@ export class InvserviceService {
         catchError(this.errorHandler));
       }
       errorHandler(error: HttpErrorResponse) {
-       return throwError('errmsg: ' + error.message || 'server error');
+       return throwError('error message: ' + error.message || 'server error');
 
     }
   }

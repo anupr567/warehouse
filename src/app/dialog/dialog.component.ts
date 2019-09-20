@@ -1,8 +1,9 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Inject } from '@angular/core';
 import { InvserviceService } from '../invservice.service';
 import { AddInventoryComponent } from '../add-inventory/add-inventory.component';
 import { HttpErrorResponse } from '@angular/common/http';
 import { Router } from '@angular/router';
+import { MAT_DIALOG_DATA } from '@angular/material';
 @Component({
   selector: 'app-dialog',
   templateUrl: './dialog.component.html',
@@ -10,7 +11,7 @@ import { Router } from '@angular/router';
 })
 export class DialogComponent implements OnInit {
 
-  constructor(private invList: InvserviceService, private router: Router) { }
+  constructor(@Inject(MAT_DIALOG_DATA) public data: any) { }
 
   ngOnInit() {
 

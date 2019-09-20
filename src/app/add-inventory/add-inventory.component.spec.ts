@@ -3,7 +3,8 @@ import { RouterTestingModule } from '@angular/router/testing';
 import { AddInventoryComponent } from './add-inventory.component';
 import { ReactiveFormsModule, FormsModule, RequiredValidator } from '@angular/forms';
 import { HttpClientTestingModule } from '@angular/common/http/testing';
-import { MatFormFieldModule, MatHeaderCell, MatCell } from '@angular/material';
+import { MatFormFieldModule, MatDialogModule, MatCell, MatFormFieldControl, MatInputModule } from '@angular/material';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 describe('AddInventoryComponent', () => {
   let component: AddInventoryComponent;
@@ -14,7 +15,7 @@ describe('AddInventoryComponent', () => {
       declarations: [ AddInventoryComponent ],
       imports: [ReactiveFormsModule, FormsModule, RouterTestingModule,
          HttpClientTestingModule,
-        MatFormFieldModule]
+        MatFormFieldModule, MatDialogModule, MatInputModule, BrowserAnimationsModule]
     })
     .compileComponents();
   }));

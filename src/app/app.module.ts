@@ -11,6 +11,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MaterialModule } from './material/material.module';
 import {HttpClientModule} from '@angular/common/http';
 import { DialogComponent } from './dialog/dialog.component' ;
+import { MAT_DIALOG_DATA } from '@angular/material';
 
 
 @NgModule({
@@ -32,7 +33,7 @@ import { DialogComponent } from './dialog/dialog.component' ;
     FormsModule
   ],
   schemas: [ CUSTOM_ELEMENTS_SCHEMA ],
-  providers: [],
+  providers: [ { provide: MAT_DIALOG_DATA, useValue: {} } ],
   bootstrap: [AppComponent],
   entryComponents: [DialogComponent]
 })

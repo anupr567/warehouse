@@ -1,3 +1,7 @@
 .err {
     color: red;
 }
+mat-label { color: green;
+    font-size: 25px;
+
+}

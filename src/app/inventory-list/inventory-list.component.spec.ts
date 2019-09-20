@@ -4,6 +4,7 @@ import { InventoryListComponent } from './inventory-list.component';
 import { MatFormFieldModule, MatPaginatorModule, MatTableModule, MatInputModule} from '@angular/material';
 import { HttpClientModule } from '@angular/common/http';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { HttpClientTestingModule } from '@angular/common/http/testing';
 describe('InventoryListComponent', () => {
   let component: InventoryListComponent;
   let fixture: ComponentFixture<InventoryListComponent>;
@@ -12,7 +13,7 @@ describe('InventoryListComponent', () => {
     TestBed.configureTestingModule({
       declarations: [ InventoryListComponent ],
       imports: [  RouterTestingModule, MatInputModule, BrowserAnimationsModule,
-      MatFormFieldModule, MatPaginatorModule, MatTableModule, HttpClientModule]
+      MatFormFieldModule, MatPaginatorModule, MatTableModule, HttpClientTestingModule]
     })
     .compileComponents();
   }));

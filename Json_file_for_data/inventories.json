@@ -1077,6 +1077,21 @@
       },
       "description": "hkhkhkhkhkh",
       "id": "fb003729-e11a-46b9-a354-0cd2777f5995"
+    },
+    {
+      "productname": "royal enfield-thunderbird",
+      "category": "bike",
+      "availableunits": "450",
+      "unitprice": "150000",
+      "tags": "asass,sas,erere",
+      "lastupated": "20-09-2019",
+      "location": {
+        "area": "salarpuria",
+        "zone": "kormngala",
+        "shelf": "FAS789"
+      },
+      "description": "powrfull,dhhduwessdsds",
+      "id": "b846b07b-96fb-49f9-b6c8-e160dfdec5ff"
     }
   ]
 }
